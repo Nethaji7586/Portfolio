@@ -1,0 +1,28 @@
+[
+  
+  {
+    "title": "Weather-Planner",
+    "description": "Cultivation Suggestor using weather",
+    "tech": ["Django", "Sqlite"],
+    "link": "https://github.com/Nethaji7586/crop_predicition_using_weather"
+  },
+  {
+    "title": "Ecommerce",
+    "description": "Ecommerce for our college canteen",
+    "tech": ["React", "MongoDb", "Node.js"],
+    "live":"https://ecommerce-six-pi-61.vercel.app/",
+    "link": "https://github.com/Nethaji7586/Canteen-Ecommerce"
+  },
+  {
+    "title": "Weather application",
+    "description": "Simple weather Application",
+    "tech": ["React", "Openweather"],
+    "live": "https://weather-application-indol-gamma.vercel.app/",
+    "link": "https://github.com/Nethaji7586/weather_application"
+  }, {
+    "title": "Ai-Attendance system",
+    "description": "Face detection attendance system",
+    "tech": ["Opencv", "Cascade model"],
+    "link": "https://github.com/Nethaji7586/ai-attendance-system"
+  }
+]
