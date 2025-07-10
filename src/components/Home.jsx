@@ -63,7 +63,7 @@ function Home() {
               I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
             </p>
             <p>
-              I hold certifications in Blockchain Development and Basic Computer Studies, and have participated in a National Level Hackathon, presenting innovative AI solutions to real-world problems.
+              I hold certifications in Full-stack Development and Basic Computer Studies, Fundamentals of Java, and have participated in a National Level Hackathon, presenting innovative AI solutions to real-world problems.
             </p>
 
             
