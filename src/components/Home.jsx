@@ -59,14 +59,14 @@ function Home() {
             <p>
               I’m <strong className='hfont'>Nethaji V</strong> from Cuddalore, Tamil Nadu — a passionate <strong className='hfont'>B.Tech - Artificial Intelligence & Data Science</strong> (2023–2027) at Shree Venkateshwara Hi-Tech Engineering College (Autonomous). I specialize in full-stack web development, UI/UX design, and data analytics.
             </p>
-
+            <p>
+              I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
+            </p>
             <p>
               I hold certifications in Blockchain Development and Basic Computer Studies, and have participated in a National Level Hackathon, presenting innovative AI solutions to real-world problems.
             </p>
 
-            <p>
-              I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
-            </p>
+            
 
             <h4 className='hfont'>Technologies i known</h4>
             <div className="d-flex flex-wrap gap-5 mt-4 justify-content-start">
