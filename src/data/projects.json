@@ -1,5 +1,11 @@
 [
-  
+  {
+    "title": "E-Learning",
+    "description": "Quiz Platform",
+    "tech": ["React", "Node"],
+    "live": "https://e-learning-three-flame.vercel.app/",
+    "link": "https://github.com/Nethaji7586/E-learning"
+  },
   {
     "title": "Weather-Planner",
     "description": "Cultivation Suggestor using weather",
