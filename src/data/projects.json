@@ -20,11 +20,11 @@
     "link": "https://github.com/Nethaji7586/Canteen-Ecommerce"
   },
   {
-    "title": "Weather application",
-    "description": "Simple weather Application",
+    "title": "Skycast",
+    "description": "Weather Application",
     "tech": ["React", "Openweather"],
-    "live": "https://weather-application-indol-gamma.vercel.app/",
-    "link": "https://github.com/Nethaji7586/weather_application"
+    "live": "https://sky-cast-livid.vercel.app/",
+    "link": "https://github.com/Nethaji7586/SkyCast"
   }, {
     "title": "Ai-Attendance system",
     "description": "Face detection attendance system",
