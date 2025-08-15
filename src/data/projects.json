@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ideathon Event ",
+    "description": "Registration website for college",
+    "tech": ["React"],
+    "live": "https://event-manager-tau-five.vercel.app/"
+  },
+  {
     "title": "E-Learning",
     "description": "Quiz Platform",
     "tech": ["React", "Node"],
