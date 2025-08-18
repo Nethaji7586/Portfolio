@@ -1,4 +1,10 @@
 [
+   {
+    "title": "Ai-Disaster service ",
+    "description": "Helper while disaster happens",
+    "tech": ["React,Own Classification Model,Firebase"],
+    "live": "https://disaster-service.vercel.app/"
+  },
   {
     "title": "Ideathon Event ",
     "description": "Registration website for college",
