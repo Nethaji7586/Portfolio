@@ -32,10 +32,10 @@ function Navbar() {
                 <a className="nav-link ired" href="#home">Home</a>
               </li>
               <li className="nav-item me-5">
-                <a className="nav-link ired" href="#certificates">Certificate</a>
+                <a className="nav-link ired" href="#projects">Projects</a>
               </li>
               <li className="nav-item me-5">
-                <a className="nav-link ired" href="#projects">Projects</a>
+                <a className="nav-link ired" href="#certificates">Certificate</a>
               </li>
               <li className="nav-item me-5">
                 <a className="nav-link ired" href="#contact">Contact</a>
