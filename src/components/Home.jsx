@@ -23,7 +23,6 @@ import {
   FaPython,
   FaAws,
   FaJava,
-  FaPhp,
   FaGitAlt
 } from 'react-icons/fa';
 
@@ -68,13 +67,13 @@ function Home() {
 
             
 
-            <h4 className='hfont'>Technologies i known</h4>
+            <h4 className='hfont'>Technologies known</h4>
             <div className="d-flex flex-wrap gap-5 mt-4 justify-content-start">
   {/* High Demand Technologies */}
   <FaReact size={30} color="#61DBFB" title="React.js" />
   <FaNodeJs size={30} color="#3C873A" title="Node.js" />
   <SiJavascript size={30} color="#f7df1e" title="JavaScript" />
-  <FaPython size={30} color="#3776AB" title="Python" />
+  
   <SiTailwindcss size={30} color="#06B6D4" title="Tailwind CSS" />
   <SiMongodb size={30} color="#47A248" title="MongoDB" />
   <FaAws size={30} color="#FF9900" title="AWS" />
@@ -88,7 +87,7 @@ function Home() {
   <SiBootstrap size={30} color="#7952B3" title="Bootstrap" />
   <SiFlask size={30} color="#000000" title="Flask" />
   <FaJava size={30} color="#007396" title="Java" />
-  <FaPhp size={30} color="#8892BF" title="PHP" />
+  <FaPython size={30} color="#3776AB" title="Python" />
 
   {/* Niche/Creative/Support Tools */}
   <SiSass size={30} color="#CD6799" title="Sass" />
