@@ -42,8 +42,7 @@ function Navbar() {
               </li>
               <li className="nav-item me-5">
                 <a href={Info} download className="btn btn-primary">
-Resume
-                  <i className="bi bi-download me-2"></i> 
+Resume <i className="bi bi-download me-2"></i> 
                 </a>
               </li>
             </ul>
