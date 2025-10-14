@@ -7,14 +7,15 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-sm">
         <div className="container-fluid">
           <a className="navbar-brand hfont" href="#">
-            <img
-              src={Image}
-              alt="Logo"
-              style={{ height: '30px' }}
-              className="d-inline-block align-text-top me-4"
-            />
-            |Nethaji Venkatesan
-          </a>
+              <img
+                 src={Image}
+                 alt="Logo"
+                 style={{ height: '30px' }}
+                 className="d-inline-block align-text-top me-4"
+                />
+                <span className="danger">|</span> Nethaji Venkatesan
+        </a>
+
           <button
             className="navbar-toggler"
             type="button"
