@@ -13,7 +13,7 @@ function Navbar() {
                  style={{ height: '30px' }}
                  className="d-inline-block align-text-top me-4"
                 />
-                <span className="danger">|</span> Nethaji Venkatesan
+                <span className="text-danger">|</span> Nethaji Venkatesan
         </a>
 
           <button
