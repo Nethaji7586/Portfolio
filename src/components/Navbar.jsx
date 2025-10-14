@@ -11,7 +11,7 @@ function Navbar() {
                  src={Image}
                  alt="Logo"
                  style={{ height: '30px' }}
-                 className="d-inline-block align-text-top me-4"
+                 className="d-inline-block align-text-top me-2"
                 />
                 <span className="text-danger">|</span> Nethaji Venkatesan
         </a>
