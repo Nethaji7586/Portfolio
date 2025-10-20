@@ -62,7 +62,7 @@ function Home() {
               I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
             </p>
             <p>
-              I have participated in a National Level Hackathon, presenting innovative AI solutions to real-world problems.Now I am Crafting project for <strong> Smart India Hackothan 2025</strong>
+              Crafting innovative solutions to real-world problems for <strong> Smart India Hackothan 2025</strong>
             </p>
 
             
