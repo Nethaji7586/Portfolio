@@ -11,7 +11,7 @@ function Footer() {
           className="img-fluid"
         />
         <h2 className="mb-0 ffont text-center text-md-start">
-          Technology is the foundation of innovation
+          While toppers follow instructions, we create new systems
         </h2>
       </div>
     </div>
