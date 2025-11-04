@@ -20,7 +20,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="btn btn-outline-dark btn-sm"
           >
-            Follow on GitHub
+             GitHub
           </a>
         </div>
 
@@ -33,7 +33,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="btn btn-outline-primary btn-sm"
           >
-            Connect on LinkedIn
+             LinkedIn
           </a>
         </div>
 
@@ -46,7 +46,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="btn btn-outline-success btn-sm"
           >
-            Chat on WhatsApp
+            WhatsApp
           </a>
         </div>
 
@@ -59,7 +59,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="btn btn-outline-danger btn-sm"
           >
-            Follow on Instagram
+            Instagram
           </a>
         </div>
       </div>
