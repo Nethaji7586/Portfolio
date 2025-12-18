@@ -62,7 +62,7 @@ function Home() {
               I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
             </p>
             <p>
-              Crafting innovative solutions to real-world problems for <strong> Smart India Hackothan 2025</strong>
+              Diving into <strong> Docker, Kubernetes</strong> technologies to  start the carrer in DevOps 
             </p>
 
             
