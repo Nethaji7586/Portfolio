@@ -1,5 +1,5 @@
 import Image from '../assets/icon.png'
-import Info from '../assets/resume.pdf'
+import Info from '../assets/ats.pdf'
 
 function Navbar() {
   return (
