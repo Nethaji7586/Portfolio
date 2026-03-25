@@ -10,7 +10,6 @@ import {
   SiMongodb,
   SiDocker,
   SiGithub,
-  SiAdobe,
   SiCanva,
   SiFigma
 } from 'react-icons/si';
@@ -91,7 +90,6 @@ function Home() {
 
   {/* Niche/Creative/Support Tools */}
   <SiSass size={30} color="#CD6799" title="Sass" />
-  <SiAdobe size={30} color="#FF0000" title="Adobe" />
   <SiFigma size={30} color="#F24E1E" title="Figma" />
   <SiCanva size={30} color="#00C4CC" title="Canva" />
   <SiDocker size={30} color="#0db7ed" title="Docker" />
