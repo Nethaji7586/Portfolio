@@ -1,4 +1,4 @@
-import Owner from '../assets/owner.png'
+import Owner from '../assets/owner.jpg'
 import {
   SiC,
   SiJavascript,
