@@ -5,6 +5,12 @@
     "tech": ["React,Own Classification Model,Firebase"],
     "live": "https://disaster-service.vercel.app/"
   },
+    {
+    "title": "NetCloud",
+    "description": "Own cloud storage",
+    "tech": ["Nginx", "Node.js","linux"],
+    "link": "https://github.com/Nethaji7586/netcloud"
+  },
   {
     "title": "E-Learning",
     "description": "Quiz Platform",
@@ -36,10 +42,11 @@
     "description": "Face detection attendance system",
     "tech": ["Opencv", "Cascade model"],
     "link": "https://github.com/Nethaji7586/ai-attendance-system"
-  }, {
-    "title": "NetCloud",
-    "description": "Own cloud storage",
-    "tech": ["Nginx", "Node.js","linux"],
-    "link": "https://github.com/Nethaji7586/netcloud"
+  },
+   {
+    "title": "Bachelor",
+    "description": "Local area job finder",
+    "tech": ["Node.js", "React.js"],
+    "link": "https://github.com/Nethaji7586/Bachelor"
   }
 ]
