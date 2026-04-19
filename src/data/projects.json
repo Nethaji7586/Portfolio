@@ -36,5 +36,10 @@
     "description": "Face detection attendance system",
     "tech": ["Opencv", "Cascade model"],
     "link": "https://github.com/Nethaji7586/ai-attendance-system"
+  }, {
+    "title": "NetCloud",
+    "description": "Own cloud storage",
+    "tech": ["Nginx", "Node.js","linux"],
+    "link": "https://github.com/Nethaji7586/netcloud"
   }
 ]
