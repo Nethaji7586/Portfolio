@@ -60,9 +60,9 @@ function Home() {
             <p>
               I’m an adaptive, creative thinker with strong problem-solving and collaboration skills, fluent in English and Tamil. I’m actively seeking to contribute to cutting-edge projects in a forward-thinking MNC while constantly upgrading my technical and professional abilities.
             </p>
-            <p>
-              Diving into <strong> System design </strong> technology to  improve the knowledge in tech
-            </p>
+           <p>
+  Currently exploring <strong>Shell Scripting, AWS, Jenkins, and Docker</strong> to build skills in cloud computing, CI/CD, and automation
+</p>
 
             
 
