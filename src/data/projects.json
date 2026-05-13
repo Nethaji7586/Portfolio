@@ -8,7 +8,7 @@
     {
     "title": "NetCloud",
     "description": "Own cloud storage",
-    "tech": ["Nginx", "Node.js","linux"],
+    "tech": ["Node","React"],
     "link": "https://github.com/Nethaji7586/netcloud"
   },
   {
