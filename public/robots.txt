@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nethajiv.xyz/sitemap.xml
