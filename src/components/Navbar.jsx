@@ -1,20 +1,22 @@
-import Image from '../assets/icon.png'
-import Info from '../assets/ats.pdf'
+import Image from '../assets/icon.png';
 
 function Navbar() {
+  const resumeLink =
+    "https://drive.google.com/uc?export=download&id=1PIvj-faUUP3SE9dlqwPxy5rtbOJTR9bw";
+
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-sm">
         <div className="container-fluid">
           <a className="navbar-brand hfont" href="#">
-              <img
-                 src={Image}
-                 alt="Logo"
-                 style={{ height: '30px' }}
-                 className="d-inline-block align-text-top me-2"
-                />
-                <span className="text-danger">|</span> Nethaji Venkatesan
-        </a>
+            <img
+              src={Image}
+              alt="Logo"
+              style={{ height: '30px' }}
+              className="d-inline-block align-text-top me-2"
+            />
+            <span className="text-danger">|</span> Nethaji Venkatesan
+          </a>
 
           <button
             className="navbar-toggler"
@@ -27,23 +29,33 @@ function Navbar() {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
+
           <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item me-5">
                 <a className="nav-link ired" href="#home">Home</a>
               </li>
+
               <li className="nav-item me-5">
                 <a className="nav-link ired" href="#projects">Projects</a>
               </li>
+
               <li className="nav-item me-5">
                 <a className="nav-link ired" href="#certificates">Certificate</a>
               </li>
+
               <li className="nav-item me-5">
                 <a className="nav-link ired" href="#contact">Contact</a>
               </li>
+
               <li className="nav-item me-5">
-                <a href={Info} download className="btn btn-primary">
-Resume <i className="bi bi-download me-2"></i> 
+                <a
+                  href={resumeLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn btn-primary"
+                >
+                  Resume <i className="bi bi-download ms-2"></i>
                 </a>
               </li>
             </ul>
