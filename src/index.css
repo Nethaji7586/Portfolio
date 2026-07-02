@@ -1,0 +1,38 @@
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.tech-item {
+  transition: transform 0.3s ease;
+}
+
+.tech-item:hover {
+  transform: translateY(-5px);
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  .tech-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .tech-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .tech-item svg {
+    width: 35px;
+    height: 35px;
+  }
+
+  .tech-item p {
+    font-size: 14px;
+  }
+}
