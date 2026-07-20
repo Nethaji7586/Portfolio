@@ -2,7 +2,7 @@ import Image from '../assets/icon.png';
 
 function Navbar() {
   const resumeLink =
-    "https://drive.google.com/uc?export=download&id=1PIvj-faUUP3SE9dlqwPxy5rtbOJTR9bw";
+    "https://drive.google.com/file/d/1N4yW_Fc4Jio7033jT7QZXEAPAh3yjKxM/view?usp=sharing";
 
   return (
     <>
