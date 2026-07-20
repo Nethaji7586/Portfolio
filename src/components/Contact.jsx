@@ -7,7 +7,7 @@ function Contact() {
 
       <div className="mt-4">
         <p className="mb-1 hfont"><strong>Mobile:</strong> +91 90252 60868</p>
-        <p className="mb-1 hfont"><strong>Email:</strong> nethajisiva1503@gmail.com</p>
+        <p className="mb-1 hfont"><strong>Email:</strong> nethajiv7586@gmail.com</p>
       </div>
 
       <div className="row justify-content-center mb-4 mt-5">
