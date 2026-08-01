@@ -10,7 +10,7 @@
   "description": "Customized React with a flexible structure and integrated the NCSS stylesheet package for faster and consistent UI development.",
   "tech": ["React", "NCSS", "Node"],
   "live": "https://ncss-framework-8jh3m1vj2-nethajis-projects.vercel.app/"
-}
+},
     {
     "title": "NetCloud",
     "description": "Own cloud storage",
