@@ -36,21 +36,26 @@ function Home() {
       style={{ scrollMarginTop: "80px" }}
     >
       <div className="row">
-        {/* Profile Image */}
-        <div className="col-md-4 text-center">
-          <img
-            src="/owner.jpg"
-            alt="Nethaji V - Profile"
-            className="img-fluid rounded-circle mx-auto d-block"
-            style={{
-              height: "300px",
-              width: "300px",
-              objectFit: "cover",
-              border: "2px solid #000",
-              boxShadow: "0 4px 12px rgba(0, 0, 0, 0.2)",
-            }}
-          />
-        </div>
+  <div className="col-md-4 text-center">
+    <img
+      src="/owner.jpg"
+      alt="Nethaji V - Software Developer"
+      title="Nethaji V - Software Developer"
+      className="img-fluid rounded-circle mx-auto d-block"
+      width="300"
+      height="300"
+      loading="eager"
+      decoding="async"
+      style={{
+        height: "300px",
+        width: "300px",
+        objectFit: "cover",
+        border: "2px solid #000",
+        boxShadow: "0 4px 12px rgba(0, 0, 0, 0.2)",
+      }}
+    />
+  </div>
+</div>
 
         {/* About */}
         <div className="col-md-8 d-flex align-items-center">
