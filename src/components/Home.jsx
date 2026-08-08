@@ -55,7 +55,6 @@ function Home() {
       }}
     />
   </div>
-</div>
 
         {/* About */}
         <div className="col-md-8 d-flex align-items-center">
