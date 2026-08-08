@@ -73,12 +73,9 @@ function Home() {
             </p>
 
             <p>
-              Currently learning{" "}
-              <strong>
-                Shell Scripting, AWS, Jenkins, Docker, Kubernetes and Nginx
-              </strong>{" "}
-              to strengthen my Cloud and DevOps knowledge.
-            </p>
+  Currently looking for opportunities to start my professional career and contribute my skills to real-world projects.
+</p>
+
           </div>
         </div>
       </div>
